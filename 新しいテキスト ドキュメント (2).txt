@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 テストテスト
+=======
+sdasdsadsasad
+sadsdasada
+dsadsaads
+>>>>>>> work
