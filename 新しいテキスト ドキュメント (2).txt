@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 テストテスト
-=======
-sdasdsadsasad
 sadsdasada
 dsadsaads
->>>>>>> work
+dsdsaasasd
+sdfsadfsdfs
+fsadsdafsfsd
